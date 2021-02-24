@@ -1,0 +1,1 @@
+export const getUser = () => Promise.resolve({ id: 1, name: 'Default name' });
